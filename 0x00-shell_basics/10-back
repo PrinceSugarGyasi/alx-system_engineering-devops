@@ -1,2 +1,2 @@
-#!/binbash
-10-back
+#!/bin/bash
+cd ..
